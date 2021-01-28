@@ -13,5 +13,5 @@ RBE naturally drew similarities to recursive solutions in CS, which lead me to p
 
 
 ## More info
-
+A quick demo for a simple sequantial game: https://drive.google.com/file/d/1caFIJl1brJaODP9D9fWFRqevoojPaDBu/view?usp=sharing 
 More information on sequential games can be found here: http://www.sfu.ca/~rda18/302_8_SequentialGames.pdf
