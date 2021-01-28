@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Rollback.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Rollback.dir/objects.a @CMakeFiles\Rollback.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  -std=c++17 -Wall -Werror -Wextra -pedantic -pedantic-errors -g   -Wl,--whole-archive CMakeFiles\Rollback.dir/objects.a -Wl,--no-whole-archive  -o ..\Rollback.exe -Wl,--out-implib,libRollback.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rollback.dir\linklibs.rsp

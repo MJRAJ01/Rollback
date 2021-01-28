@@ -1,0 +1,3 @@
+C:/Users/markr/CLionProjects/Rollback/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/markr/CLionProjects/Rollback/cmake-build-debug/CMakeFiles/Rollback.dir
+C:/Users/markr/CLionProjects/Rollback/cmake-build-debug/CMakeFiles/edit_cache.dir

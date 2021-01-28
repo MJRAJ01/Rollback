@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/markr/CLionProjects/Rollback/TreeNode.cpp
+TreeNode.h
+C:/Users/markr/CLionProjects/Rollback/TreeNode.h
+cstddef
+-
+string
+-
+stdexcept
+-
+iostream
+-
+
+C:/Users/markr/CLionProjects/Rollback/TreeNode.h
+cstddef
+-
+string
+-
+stdexcept
+-
+vector
+-
+
